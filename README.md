@@ -3,7 +3,7 @@ Live Preview - [Click Here](https://gportfolio.vercel.app)
 
 <br/>
 <div align="center">
-  <img alt="Demo" src="avtar" />
+  <img alt="Demo" src="https://s8.gifyu.com/images/avtar.png" />
 </div>
 <br/>
 <br/>
