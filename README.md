@@ -3,7 +3,7 @@ Live Preview - [Click Here](https://gportfolio.vercel.app)
 
 <br/>
 <div align="center">
-  <img alt="Demo" src="public/mockup.png" />
+  <img alt="Demo" src="avtar" />
 </div>
 <br/>
 <br/>
