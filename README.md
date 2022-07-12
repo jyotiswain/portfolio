@@ -1,5 +1,5 @@
 **Portfolio**
-Live Preview - [Click Here](https://gportfolio.vercel.app)
+
 
 <br/>
 <div align="center">
