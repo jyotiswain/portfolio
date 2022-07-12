@@ -25,7 +25,7 @@ const Header = ({ toggle }) => {
         <NavBtn>
           <a
             className="btn PrimaryBtn"
-            href="https://github.com/jyotiswain"
+            href="https://www.canva.com/design/DAE2Xfd2jY0/W9QMDAAC99-Hkg_6Z1WAIQ/view?utm_content=DAE2Xfd2jY0&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"
             target="_blank"
             rel="noopener noreferrer"
           >
