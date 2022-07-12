@@ -1,38 +1,38 @@
 // --------------------------------------- Project List
 export const ProjectList = [
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_1.png",
-    title: "Spense",
-    description: "Codewell challenge, Spense is a landing page for writers.",
+    img: "https://i.pinimg.com/originals/36/1c/bc/361cbc171264b8065cdeca61861c145b.jpg",
+    title: "Digital Journal",
+    description: "Todo list with daily notes saver along with mood indicator,",
     tech_stack: "Html, Css, Javascript",
-    github_url: "https://github.com/jyotiswain",
-    demo_url: "https://github.com/jyotiswain",
+    github_url: "https://github.com/jyotiswain/Digital-Journal",
+    demo_url: "",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_2.png",
-    title: "Fiber",
+    img: "https://mspoweruser.com/wp-content/uploads/2016/09/LinkedIn-Desktop-Redesign.jpg",
+    title: "LinkedIn Clone",
     description:
-      "An online portfolio generator. Great to practice flex/grid layouts, absolute positioning and sliders.",
-    tech_stack: "Html, Css, Javascript",
-    github_url: "https://github.com/jyotiswain",
-    demo_url: "https://github.com/jyotiswain",
+      "Clone of LinkedIn with post feature.",
+    tech_stack: "Html, Css, Javascript, React JS, Firebase",
+    github_url: "https://github.com/jyotiswain/linkedin-clone",
+    demo_url: "",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/portfolio.png",
+    img: "https://s8.gifyu.com/images/avtar.png",
     title: "Portfolio",
     description: "Ofcourse i made my own personal portfolio website.",
     tech_stack: "Reactjs, Css",
     github_url: "https://github.com/jyotiswain",
-    demo_url: "https://github.com/jyotiswain",
+    demo_url: "",
   },
   {
-    img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_3.png",
-    title: "Ecommerce website",
+    img: "https://www.cvent.com/sites/default/files/migrated_attachments/connect-home.png",
+    title: "Event Websit",
     description:
-      "Created simple ecommerce website using reactjs and react-use-cart plugin.",
+      "Event website where one can register in event.",
     tech_stack: "Reactjs, Css",
-    github_url: "https://github.com/jyotiswain",
-    demo_url: "https://github.com/jyotiswain",
+    github_url: "https://github.com/jyotiswain/Event-Website-using-Laravel",
+    demo_url: "",
   },
 ];
 
